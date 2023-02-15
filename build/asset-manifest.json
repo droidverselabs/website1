@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/website1/static/css/main.28bc5c32.chunk.css",
+    "main.js": "/website1/static/js/main.641018d4.chunk.js",
+    "main.js.map": "/website1/static/js/main.641018d4.chunk.js.map",
+    "runtime-main.js": "/website1/static/js/runtime-main.9760ae2d.js",
+    "runtime-main.js.map": "/website1/static/js/runtime-main.9760ae2d.js.map",
+    "static/js/2.43e617c4.chunk.js": "/website1/static/js/2.43e617c4.chunk.js",
+    "static/js/2.43e617c4.chunk.js.map": "/website1/static/js/2.43e617c4.chunk.js.map",
+    "static/js/3.a73e3615.chunk.js": "/website1/static/js/3.a73e3615.chunk.js",
+    "static/js/3.a73e3615.chunk.js.map": "/website1/static/js/3.a73e3615.chunk.js.map",
+    "index.html": "/website1/index.html",
+    "static/css/main.28bc5c32.chunk.css.map": "/website1/static/css/main.28bc5c32.chunk.css.map",
+    "static/js/2.43e617c4.chunk.js.LICENSE.txt": "/website1/static/js/2.43e617c4.chunk.js.LICENSE.txt",
+    "static/media/droidbanner.82a70144.png": "/website1/static/media/droidbanner.82a70144.png",
+    "static/media/droidlogo.f6a6fe40.png": "/website1/static/media/droidlogo.f6a6fe40.png",
+    "static/media/expensive.6449ceef.jpg": "/website1/static/media/expensive.6449ceef.jpg",
+    "static/media/margherita.683bc9bb.jpg": "/website1/static/media/margherita.683bc9bb.jpg",
+    "static/media/multiplePizzas.490709e2.jpeg": "/website1/static/media/multiplePizzas.490709e2.jpeg",
+    "static/media/pedrotechspecial.425951cb.jpg": "/website1/static/media/pedrotechspecial.425951cb.jpg",
+    "static/media/pepperoni.d173e5db.jpg": "/website1/static/media/pepperoni.d173e5db.jpg",
+    "static/media/pineapple.a01ab9be.jpg": "/website1/static/media/pineapple.a01ab9be.jpg",
+    "static/media/pizzaLeft.24b07891.jpg": "/website1/static/media/pizzaLeft.24b07891.jpg",
+    "static/media/vegan.52cbfe9e.jpg": "/website1/static/media/vegan.52cbfe9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9760ae2d.js",
+    "static/js/2.43e617c4.chunk.js",
+    "static/css/main.28bc5c32.chunk.css",
+    "static/js/main.641018d4.chunk.js"
+  ]
+}
